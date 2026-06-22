@@ -2,8 +2,14 @@
 
 
 **Sumário**
+- Definição
 - Comentários
 - Dicas para escrever YAML
+
+--------------------------------------------
+
+**Definição**
+_YAML_, que significa "YAML Ain't Markup Language" (YAML não é uma linguagem de marcação), é uma linguagem de serialização de dados legível por humanos. É comumente usada para criar arquivos de configuração.
 
 --------------------------------------------
 
