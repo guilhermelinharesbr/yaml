@@ -3,7 +3,7 @@
 
 **Sumário**
 - [Definição](#definição)
-- Inicialização do arquivo
+- [Inicialização do arquivo](#inicialização-do-arquivo)
 - Comentários
 - [Dicas para escrever YAML](#dicas-para-escrever-yaml)
 
@@ -14,7 +14,7 @@ _YAML_, que significa "YAML Ain't Markup Language" (YAML não é uma linguagem d
 
 --------------------------------------------
 
-**Inicialização do arquivo**
+##### Inicialização do arquivo
 Os três traços `---`  representam o início de um documento.
 
 --------------------------------------------
