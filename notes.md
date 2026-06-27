@@ -4,7 +4,7 @@
 **Sumário**
 - [Definição](#definição)
 - [Inicialização do arquivo](#inicialização-do-arquivo)
-- Comentários
+- [Comentários](#comentários)
 - [Dicas para escrever YAML](#dicas-para-escrever-yaml)
 
 --------------------------------------------
@@ -19,7 +19,7 @@ Os três traços `---`  representam o início de um documento.
 
 --------------------------------------------
 
-**Comentários** 
+##### Comentários
 
 Usa-se o `#`. Pode-se usar no início da linha ou na continuação da linha.
 
